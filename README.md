@@ -5,7 +5,9 @@ Integrar as principais tecnologias Web através de projetos reais!
 Criar aplicações Mobile conectadas a aplicações WEB utilizando a tecnologia IONIC.
 Como tornar suas habilidades em desenvolvimento web uma atividade remunerada, trabalhando de onde quiser.
 
-# Conteúdo abordado,e projetos a serem desenvolvidos:
+
+
+# Confira abaixo os cursos e os projetos do pacote de Desenvolvimento Web Completo:
 
 ## 1) HTML5
 
