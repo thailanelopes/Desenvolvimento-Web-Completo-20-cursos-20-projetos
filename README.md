@@ -132,3 +132,5 @@ Como tornar suas habilidades em desenvolvimento web uma atividade remunerada, tr
 
 ## 20) Criando aplicações Mobile com IONIC
 - Projeto Gasolina ou Álcool
+
+# Cuso ainda em andamento.
