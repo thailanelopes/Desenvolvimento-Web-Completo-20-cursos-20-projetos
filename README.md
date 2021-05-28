@@ -8,19 +8,46 @@ Como tornar suas habilidades em desenvolvimento web uma atividade remunerada, tr
 
 
 
-# Confira abaixo os cursos e os projetos do pacote de Desenvolvimento Web Completo:
+# Confira abaixo o que irei aprender e os projetos que irei desenvolver, no curso de Desenvolvimento Web Completo:
 
 ## 1) HTML5
 
-- Projeto UNES (Página institucional de uma universidade)
+- Estrutura de uma página web.
+- Cabeçalhos.
+- Parágrafos
+- Formatação de textos
+- Lista ordenadas e não ordenadas.
+- Inserindo imagens.
+- Inserindo links.
+- Tabelas.
+- Formulários.
+- Caracteres especiais.
+#### - Projeto UNES (Página institucional de uma universidade).
 
 
 
 ## 2) CSS3
 
-- Projeto Anna Bella (Página web pessoal)
-
-- Projeto TecBlog (Blog de tecnologia)
+- Introdução ao CSS.
+- Inline CSS.
+- Seletores CSS.
+- Clases e IDs.
+- Tags Div & Span.
+- Bordas.
+- Fontes & cores.
+- Tamanhos de Texto.
+- Estilos de Texto.
+- Cor e imagem de fundo.
+- CSS Externo.
+#### - Projeto Anna Bella (Página web pessoal).
+- Modelo de caixa.
+- Elementos Flutuantes.
+- Elementos inline, block e inline-block.
+- Posicionamento estático e relativo.
+- Posicionamento - absoluto e fixo.
+- Sobrepondo elementos.
+- Formatando links.
+#### - Projeto TecBlog (Blog de tecnologia).
 
 
 
