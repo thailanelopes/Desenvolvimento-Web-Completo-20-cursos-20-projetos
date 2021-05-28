@@ -234,14 +234,74 @@ Como tornar suas habilidades em desenvolvimento web uma atividade remunerada, tr
 
 ## 9) PHP 7 e Orientação a Objetos
 
-- 
+- Intodução a Orientação a Objetos.
+- OO- Pilar da Abstração.
+- Getters e Setters.
+- Getters e Setters mágicos (overloading de atributos e métodos).
+- Chamando métodos internamente.
+-  Método Construtor e Destrutor (Construct e Destruct).
+- OO - Pilar da Herança.
+- OO - Pilar do Polimorfismo.
+- OO - Pilar do Encapsulamento.
+- Atributos e métodos estáticos.
+- Interfaces.
+- Namespaces parte 1 - Utilizando namespaces para Classes e Interfaces
+- Namespaces parte 2 - Importando e apelidando namespaces (Use e Aliasing)
+- Tratamento de erros - Try, Catch, Finally e Throw
+- Tratamento de erros - Exceções customizadas
 #### - App Send Mail (App para criação e envio de e-mails)
+- App Send Mail - Introdução
+- App Send Mail - Iniciando o projeto
+- App Send Mail - Enviando dados do front-end para o back-end via método …380. App Send Mail - Enviando dados do front-end para o back-end via método Post
+- App Send Mail - Criando e instanciando a classe Mensagem
+- App Send Mail - Adicionando a biblioteca PHPMailer ao projeto
+- App Send Mail - Configurando o PHPMailer e enviando e-mails
+- IMPORTANTE - Ajustando as configurações de acesso ao SMTP do …384. IMPORTANTE - Ajustando as configurações de acesso ao SMTP do Gmail
+- App Send Mail - Enviando e-mails com base nos parâmetros do front-end
+- App Send Mail - Melhorando o feedback visual
+- App Send Mail - De olho na segurança do back-end
 
 
 
 ## 10) Banco de dados MySQL
 
-- Projeto Banco de Dados Loja Virtual (Implementação do banco de dados de uma loja virtual)
+- Utilizando o PHPMyAdmin para manipulação do MySQL
+- Criando e excluindo bancos de dados
+- Tabelas e tipos de dados parte 1 - Um pouco de teoria
+- Tabelas e tipos de dados parte 2 - Partindo para prática
+- Extra - Entendendo a diferença entre os tipos de dados char e varchar
+- Editando nome de tabelas
+- Incluindo, editando e removendo colunas de tabelas
+- INSERT - Inserindo dados em tabela
+- SELECT - Consultando dados
+- Filtrando registros (WHERE)
+- Populando o banco de dados com registros para testes
+- SELECT - Filtros com Operadores de Comparação
+- SELECT - Filtros com Operadores Lógicos
+- SELECT - Filtros com o operador BETWEEN
+- SELECT - Filtros com o operador IN
+- SELECT - Filtros com o operador LIKE
+- SELECT - Ordenando resultado
+- SELECT - Limitando retorno
+- SELECT - Funções de agregação parte 1: MAX, MIN e AVG
+- SELECT - Funções de agregação parte 2: SUM e COUNT
+- SELECT - Agrupando seleção de registros (GROUP BY)
+- SELECT - Filtrando seleções agrupadas (HAVING)
+- UPDATE - Atualizando registros
+- DELETE - Excluindo registros
+- Introdução ao relacionamento entre tabelas, chave primária e estrangeira
+#### - Projeto Banco de Dados Loja Virtual (Implementação do banco de dados de uma loja virtual)
+- Projeto Loja Virtual - Relacionamento Um para Um
+- Projeto Loja Virtual -Relacionamento Um para Um (populan…416. Projeto Loja Virtual - Relacionamento Um para Um (populando tabelas)
+- Projeto Loja Virtual - Relacionamento Um para Muitos
+- Projeto Loja Virtual -Relacionamento Muitos para Muitos
+- Projeto Loja Virtual -Relacionamento Muitos para Muitos (p…419. Projeto Loja Virtual - Relacionamento Muitos para Muitos (populando tabelas)
+- Introdução as Junções (JOINS)entre tabelas
+- JOIN - Junção à esquerda (LEFT JOIN)
+- JOIN - Junção à direita (RIGHT JOIN)
+- JOIN - Junção interna (INNER JOIN)
+- Alias - Apelidando tabelas
+- Considerações finais da seção +
 
 
 
