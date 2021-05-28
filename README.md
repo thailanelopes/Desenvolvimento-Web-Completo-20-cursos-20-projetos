@@ -53,10 +53,23 @@ Como tornar suas habilidades em desenvolvimento web uma atividade remunerada, tr
 
 ## 3) CSS3 Intermediário & avançado
 
-- Projeto Notícias da Cidade (Portal de notícias)
-
-- Projeto Chalé Hotel (Página publicitária)
-
+- Mais sobre seletores.
+- Herança e especificidade.
+- Criando barra de navegação vertical.
+- Marcando página atual.
+- Criando barra de navegação horizontal.
+- Navegação com abas.
+- Layout de largura fixa.
+- Layout liquido.
+- Imagens líquidas.
+- Coluna falsa.
+- Estilizando tabelas.
+- Estilizando formulários.
+- Arredondamento de imágens.
+#### - Projeto Site de Notícias da Cidade (Portal de notícias)
+#### - Projeto Chalé Hotel (Página publicitária)
+- Parallax.
+- Usando fontes customizadas.
 
 
 ## 4) HTML5 e CSS3 - Recursos especiais
