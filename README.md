@@ -1,4 +1,6 @@
 # Desenvolvimento-Web-Completo-20-cursos-20-projetos
+## 🟡Cuso em andamento🟡.
+
 Repositório destinado a publicação de atividades e projetos do curso WEB completo, utilizando:  - HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC e muito mais.
  Criar aplicações web profissionais e completas, do front-end ao back-end, utilizando tecnologias como HTML5, CSS3, BootStrap 4, JS, ES6, PHP 7, OO, MySQL, DAO, PDO, AJAX, JQuery, MVC, API, IONIC e Wordpress.
 Integrar as principais tecnologias Web através de projetos reais!
@@ -404,33 +406,90 @@ Como tornar suas habilidades em desenvolvimento web uma atividade remunerada, tr
 
 ## 15) Padrão de arquitetura MVC com PHP
 
-- Projeto miniframework (Criação de um miniframework baseado na arquitetura MVC)
+- Introdução ao padrão de arquitetura MVC
+- Um pouco mais sobre MVC e a preparação da estrutura do projeto
+- Composer e Autoload PSR-4
+- Iniciando a configuração de rotas do miniframework
+- Controllers
+- Abstração da classe Routes
+- Views
+- Abstração dos Controllers
+- Definindo e reutilizando um Layout
+- Conexão com banco de dados e Models
+- Melhorando a forma como os Controllers trabalham com os Models
+- Abstração dos Models e considerações finais
+
+#### - Projeto miniframework (Criação de um miniframework baseado na arquitetura MVC)
 
 
 
 ## 16) PHP 7 & MySQL - Projeto aplicado Twitter Clone
 
-- Projeto Twitter Clone
+#### - Projeto Twitter Clone
+- Iniciando o projeto e configurando as páginas index e inscreverse
+- Registrando usuários
+- Autenticação de usuários
+- Incluindo criptografia MD5 para senha de usuários
+- Criando a Timeline, incluindo e listando Tweets
+- Pesquisando por outros usuários
+- Seguindo e deixando de seguir outros usuários
+- Exibindo tweets de outros usuários na timeline
+- Exibindo dados no perfil do usuário e ajustes finais
+- Extra (P&R) - Deploy Twitter Clone parte 1
+- Extra (P&R) - Deploy Twitter Clone parte 2 (Local)
+- Extra (P&R) - Deploy Twitter Clone parte 3 (Servidor de hospedagem com …528. Extra (P&R) - Deploy Twitter Clone parte 3 (Servidor de hospedagem com cPainel)
+- Extra (P&R) - Paginação de registros parte 1 - Introdução, Limit e O…529. Extra (P&R) - Paginação de registros parte 1 Introdução, Limit e Offset
+- Extra (P&R) - Paginação de registros parte 2
+- Extra (P&R) - Paginação de registros parte 3
+
 
 
 
 ## 17) API com Slim Framework
 
-- Projeto API de Produtos
-
+#### - Projeto API de Produtos
+- Entendendo requisições e API
+- Rotas com Slim
+- Tipos de requisições
+- Serviços e dependências
+- Middleware, respostas e database
+- Criando API
+- Finalizando rotas
+- Finalizando API
 
 
 ## 18) Introdução ao WordPress (criação de blogs)
 
-- Projeto 10 minutos exercícios
+- O que é o WordPress?
+- Instalando o WordPress
+- Conteúdos, temas e widgets - parte1
+- Conteúdos, temas e widgets - parte2
+- Personalização e plugins
+- Usuários, comentários e configurações
+- Criando páginas com Elementor
+#### - Projeto 10 minutos exercícios
 
 
 
 ## 19) SASS
-
+- Introdução ao Sass
+- Instalação: Windows e Mac
+- Instalando plugins
+- Criando projeto com Sass
+- Aninhamento, variáveis e interpolação
+- for, while, each, funções e importações
+- Mixin, Herança e diretivas de controle
 
 
 ## 20) Criando aplicações Mobile com IONIC
-- Projeto Gasolina ou Álcool
 
-# 🟡Cuso em andamento🟡.
+- Introdução ao IONIC
+- Componentes - botões
+- Componentes - listas
+- Componentes - entrada de dados
+- Sistema de grids
+- Básico sobre Angular
+- Data Binding no Angular
+- Navegação & Modelo
+
+#### - Projeto APP Gasolina ou Álcool
