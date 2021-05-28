@@ -74,29 +74,122 @@ Como tornar suas habilidades em desenvolvimento web uma atividade remunerada, tr
 
 ## 4) HTML5 e CSS3 - Recursos especiais
 
-  - Projeto Museu Nacional
+- Normalize CSS.
+- Box Szing & Cantos arredondados.
+- Degradês & transparências.
+- Sombras.
+- Animações.
+- Transições.
+- Novas tags html5 Header, Nav e Footer.
+- Novas tags html5 Article, Section, Aside e Time.
+- Compatibilidade Html5.
+- Novas tags de Input.
+- Flexbox - Container.
+- Flexbox - itens
+ #### - Projeto Museu Nacional.
 
 
 
 ## 5) Bootstrap 4 & Design responsivo
 
-- Projeto Finans
-
-- Spotify Clone
+- Designer responsivo & Bootstrap.
+- Versões do Bootstrap.
+- configurando o Bootstrap.
+- Formatação de textos.
+- Alinhamento de textos.
+- Elementos Flutuantes.
+- Cores & Backgrounds.
+- Margin & Padding.
+- Tamanhos & Bordas.
+- Media queries.
+- Botões.
+- Barra de navegação.
+- Listas.
+- Formulários.
+- Input group.
+- Alertas & Barra de progresso.
+- Tabelas e paginação.
+- Cards.
+- Jumbotron & Alinhamento de imagens.
+- ìcones.
+- Sistema de grid.
+- Configuração de grid.
+- Alinhamento do grid.
+- Classes do Flexbox.
+- Margin & Wrap.
+- Projeto padrão.
+#### - Projeto Finans.
+- Carousel.
+#### - Spotify Clone
 
 
 
 ## 6) JavaScript
-
-- App Calculadora
-
-- App Game Mata Mosquito (Um game sensacional que vai desafiar seus conhecimentos de lógica de programação)
+- Incluindo JavaScript em páginas HTML5.
+- Comentários.
+- Variáveis.
+- Concatenação.
+- Variáveis null e undefined.
+- Alterando valores de variáveis.
+- Revisão e desafio A-B-C.
+- Praticando com operadores de comparação: If/else.
+- Casting de tipos com toString(), ParseInt() e ParseFloat().
+- Operadores lógicos.
+- If/else - Praticando com operadores lógicos.
+- Operador ternário.
+- Switch.
+- Operadores aritméticos.
+- Operações aritméticas na atribuição de valores.
+- Precedência de execução das operações aritméticas.
+- Funções.
+- Escopo de variáveis.
+- Funções anônimas e a técnica de Wrapper.
+- Funções de callback.
+- Funções nativas para manipular strings.
+- Funções nativas para manipular datas.
+- Eventos.
+- DOM.
+#### - App Calculadora
+- Array básico.
+- Array multidimensional.
+- Array- Métodos de inclusão e exclusão de elementos.
+- Array- Métodos de pesquisa.
+- Array- Ordenação de elementos.
+- Estruturas de repetição.
+- Laços encadeados.
+- Funções.
+- Tratamento de erros com try, catch, throw e finally.
+- BOM.
+#### - App Game Mata Mosquito (Um game sensacional que vai desafiar seus conhecimentos de lógica de programação)
 
 
 
 ## 7) JavaScript Moderno (ECMAScript 2015 - ES6) e Orientação a Objetos
 
-- App Orçamento Pessoal (App para controle pessoal de finanças)
+- Como utilizar ECMAScript 2015 (ES6).
+- Babel.
+- Configurando highlight de sintaxe do ES6 no Sublime Text.
+- Operadores de declaração de variáveis Var e Let.
+- Análise de contexto usando Var e Let.
+- Operador de declaração de variáveis Const.
+- Tamplate String.
+- Funções - Parâmetros default.
+- Funções - Arrow function.
+- Intodução a orientação a Objetos.
+- OO- Pilar de abstração.
+- Reflexão - da abstração a entidade.
+- OO- Pilar do Encapsulamento.
+- OO- Pilar da Herança.
+- Operador super.
+- OO- pilar do polimorfismo.
+- Objetos literais / estáticos.
+- Funções construtoras.
+- Funções Factory.
+- Prototype.
+- Operador Rest/Spread.
+- Destructuring Assignment.
+- Array filter.
+#### App Orçamento Pessoal (App para controle pessoal de finanças).
 
 
 
