@@ -195,13 +195,47 @@ Como tornar suas habilidades em desenvolvimento web uma atividade remunerada, tr
 
 ## 8) PHP 7
 
-- App Help Desk (App para abertura e acompanhamento de suportes técnicos)
+- A dinâmica da World X Web.
+- Web Stacks.
+- Stack WAMP - conhecendo o XAMPP.
+- Configurando o back-end com XAMPP no Linux / Mac OS
+- Embutindo blocos PHP em páginas HTML.
+- Habilitando e testando tags curtas (short_open_tag).
+- Saída de dados com echo() e print().
+- Funcionamento do PHP- Páginas estáticas X Dinâmicas.
+- Comentários.
+- Variáveis - Prática (String, int, float e boolean).
+- Alterando valores de variáveis.
+- Concatenação.
+- Variáveis constantes.
+- If/else.
+- Operadores de comparação.
+- Operadores Lógicos.
+- condições encadeadas.
+- Operador ternário.
+- Switch.
+- Casting de tipos com (int), (bool), (float) e (string).
+- Operadores aritméticos.
+- Operadores de incremento/decremento.
+- Funções.
+- Funções nativas para manipular strings.
+- Funções nativas para tarefas matemáticas.
+- Funções nativas para manipular datas.
+- Arrays.
+- False, null e Empty.
+- Funções nativas para manipular Arrays.
+- Loops.
+- Arrays com While, Do While e For.
+- Foreach em arrays associativos e encadeados.
+- Incorporando scripts com include, includ_once, require e require_once.
+#### - App Help Desk (App para abertura e acompanhamento de suportes técnicos).
 
 
 
 ## 9) PHP 7 e Orientação a Objetos
 
-- App Send Mail (App para criação e envio de e-mails)
+- 
+#### - App Send Mail (App para criação e envio de e-mails)
 
 
 
