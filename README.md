@@ -307,25 +307,98 @@ Como tornar suas habilidades em desenvolvimento web uma atividade remunerada, tr
 
 ## 11) Ajax
 
-- App Pesquisa Endereço (Aprenda a realizar requisições HTTP via XMLHttpRequest para API's)
+- Requisições síncronas
+- Requisições assíncronas parte 1 -Efetuando requisições HTTP via XMLH. 
+- Requisições assíncronas parte 1 - Efetuando requisições HTTP via XMLHttpRequest
+- Requisições assíncronas parte 2 - Estados da requisição
+- Requisições assíncronas parte 3 - Aplicando um loading
+- Requisições assíncronas parte 4 - Status da requisição
+- Requisições assíncronas parte 5 - ResponseText
+- XML parte 2 - Recuperando arquivo XML do servidor via HTTP
+- XML parte 3 - Convertendo o XML para JSON
+- XML parte 4 - Listando os filmes na página
+- Refactoring da comunicação com o back-end utilizando JSON
+#### - App Pesquisa Endereço (Aprenda a realizar requisições HTTP via XMLHttpRequest para API's)
 
 
 
 ## 12) PHP com PDO
 
-- App Lista de Tarefas (PHP com PDO e MySQL)
+- Criando uma conexão entre o PHP e o MySQL com PDO
+- Tratando exceptions (PDOException)
+- Executando instruções SQL (Exec)
+- PDOStatement Object (Query) com fetchAll
+- FetchAll - Trabalhando os tipos de retornos
+- Fetch - Retornando apenas um registro
+- Listando registros com Foreach
+- SQL Injection
+- Prepare Statement
+- App Lista de Tarefas - Introdução
+- App Lista de Tarefas - Iniciando o projeto
+- App Lista de Tarefas - Criando a classe Tarefa
+- App Lista de Tarefas - Criando a classe TarefaService
+- App Lista de Tarefas - Criando a classe Conexão
+- App Lista de Tarefas - Enviando dados para o back-end
+- App Lista de Tarefas - Inserindo registros
+- App Lista de Tarefas - Inserindo registros (feedback)
+- App Lista de Tarefas - Listando todos os registros parte 1
+- App Lista de Tarefas - Listando todos os registros parte 2
+- App Lista de Tarefas - Atualizando registros parte 1
+- App Lista de Tarefas - Atualizando registros parte 2
+- Extra - Prepare com marcadores "?" e métodos setters com return $this
+- App Lista de Tarefas - Removendo registros
+- App Lista de Tarefas - Marcando tarefas como realizadas
+- App Lista de Tarefas - Listando tarefas pendentes
+#### - App Lista de Tarefas (PHP com PDO e MySQL)
 
 
 
 ## 13) Publicação de aplicações Web na Internet
 
-  - Publicação de aplicações web (PHP e MySQL) utilizando o InfintyFree
+- DNS - Domain Name System (Sistema de Nome de Domínio)
+- Servidores de Hospedagem
+- InfinityFree (Servidor de hospedagem)
+- Conhecendo o famoso cPainel
+- FileZilla Client FTP (Instalação)
+- FileZilla Client FTP (Configuração)
+- Enviando arquivos da aplicação via File Manager
+- Configurando a hospedagem para PHP 7
+- Configurando o banco de dados MySQL
+ #### - Publicação de aplicações web (PHP e MySQL) utilizando o InfintyFree
 
 
 
 ## 14) JQuery
 
-- App Dashboard (Criação de um dashboard integrando front-end, back-end e banco de dados)
+- Configurando e testando o jQuery
+- Seletores - Selecionando elementos HTML parte 1
+- Seletores - Selecionando elementos HTML parte 2
+- Sequência de execução de código e $(document).ready()
+- Recuperando e manipulando os atributos dos elementos HTML
+- Recuperando e manipulando o conteúdo interno de elementos HTML
+- Recuperando e manipulando valores de inputs (text) e selects
+- Recuperando e manipulando valores de checkboxes/radios e Loop c…485. Recuperando e manipulando valores de checkboxes/radios e Loop com $.each()
+- Inserindo e removendo elementos HTML
+- Navegando entre elementos HTML
+- Manipulando CSS
+- Eventos - Introdução
+- Eventos do browser (navegador)
+- Eventos do mouse parte 1
+- Eventos do mouse parte 2
+- Eventos do teclado
+- Eventos de formulário
+- Eventos - Aplicando eventos a diversos elementos html simultaneame…495. Eventos - Aplicando eventos a diversos elementos html simultaneamente
+- Eventos - Registrando/removendo eventos com on/off
+- Eventos - Disparando eventos de forma programática e eventos auxiliad…497. Eventos - Disparando eventos de forma programática e eventos auxiliadores
+- Efeitos especiais
+- Animações
+#### - App Dashboard (Criação de um dashboard integrando front-end, back-end e banco de dados)
+- Ajax com jQuery - Conceitos básicos / iniciando o App Dashboard
+- Ajax com jQuery - Requisições para o back-end com load(), get() e post()
+- Ajax com jQuery - Preparando o back-end da aplicação
+- Ajax com jQuery - Utilizando o método $.ajax()
+- Ajax com jQuery - Serialize
+
 
 
 
