@@ -16,7 +16,7 @@ Como tornar suas habilidades em desenvolvimento web uma atividade remunerada, tr
 
 - Estrutura de uma página web.
 - Cabeçalhos.
-- Parágrafos
+- Parágrafos.
 - Formatação de textos
 - Lista ordenadas e não ordenadas.
 - Inserindo imagens.
@@ -87,7 +87,7 @@ Como tornar suas habilidades em desenvolvimento web uma atividade remunerada, tr
 - Compatibilidade Html5.
 - Novas tags de Input.
 - Flexbox - Container.
-- Flexbox - itens
+- Flexbox - itens.
  #### - Projeto Museu Nacional.
 
 
