@@ -1,5 +1,5 @@
 # Desenvolvimento-Web-Completo-20-cursos-20-projetos.
-## 🟡Cuso em andamento🟡.
+## 🟡Cuso em andamento🟡
 
 Repositório destinado a publicação de atividades e projetos do curso WEB completo, utilizando:  - HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC e muito mais.
  Criar aplicações web profissionais e completas, do front-end ao back-end, utilizando tecnologias como HTML5, CSS3, BootStrap 4, JS, ES6, PHP 7, OO, MySQL, DAO, PDO, AJAX, JQuery, MVC, API, IONIC e Wordpress.
@@ -9,7 +9,7 @@ Criar aplicações Mobile conectadas a aplicações WEB utilizando a tecnologia 
 
 # Confira abaixo o que irei aprender e os projetos que irei desenvolver, no curso de Desenvolvimento Web Completo:
 
-## 1) HTML5
+## 1) HTML5.
 
 - Estrutura de uma página web.
 - Cabeçalhos.
@@ -25,7 +25,7 @@ Criar aplicações Mobile conectadas a aplicações WEB utilizando a tecnologia 
 
 
 
-## 2) CSS3
+## 2) CSS3.
 
 - Introdução ao CSS.
 - Inline CSS.
@@ -50,7 +50,7 @@ Criar aplicações Mobile conectadas a aplicações WEB utilizando a tecnologia 
 
 
 
-## 3) CSS3 Intermediário & avançado
+## 3) CSS3 Intermediário & avançado.
 
 - Mais sobre seletores.
 - Herança e especificidade.
@@ -71,7 +71,7 @@ Criar aplicações Mobile conectadas a aplicações WEB utilizando a tecnologia 
 - Usando fontes customizadas.
 
 
-## 4) HTML5 e CSS3 - Recursos especiais
+## 4) HTML5 e CSS3 - Recursos especiais.
 
 - Normalize CSS.
 - Box Szing & Cantos arredondados.
