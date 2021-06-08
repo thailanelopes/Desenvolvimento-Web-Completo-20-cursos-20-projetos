@@ -119,11 +119,11 @@ Criar aplicações Mobile conectadas a aplicações WEB utilizando a tecnologia 
 - Projeto padrão.
 #### - Projeto Finans.
 - Carousel.
-#### - Spotify Clone
+#### - Spotify Clone.
 
 
 
-## 6) JavaScript
+## 6) JavaScript.
 - Incluindo JavaScript em páginas HTML5.
 - Comentários.
 - Variáveis.
