@@ -1,0 +1,107 @@
+<!--Div(vem do inglês, de divisão), utilizamos div para dividir e estruturar o site-->
+
+<!DOCTYPE html>
+	<html>
+	<head>
+		
+		<title>Div e Span</title>
+		<meta charset="utf-8">
+
+		<style type="text/css"> /* Aqui será adcionado texto CSS */
+
+		#topo{
+
+			background: darkblue;
+		}
+
+		#conteudo{
+
+			background: blue;
+		}
+
+		#rodape{
+			background: lightblue;
+		}
+
+		#assinatura{
+			background: blue;
+		}
+
+		.produto{
+
+			background: grey;
+
+			margin: 10px; /* margin é utilizado para dar espaçamento. */
+
+		}
+
+		.azul{
+			color: blue;
+		}
+
+
+		</style>
+		
+		
+
+
+
+	</head>
+
+
+	<body>
+
+		<div id="topo">
+			
+
+              <img src="images/amazon-prime.png" width="200"> <!--width determina a largura da área de conteúdo de um elemento. A área de conteúdo fica dentro do preenchimento, da borda, e da margem de um elemento.-->
+
+
+              <ul> <!--lista não ordenada-->
+              	<li>Home</li>
+              	<li>Produtos</li>
+              	<li>Contatos</li>
+
+              </ul>
+
+		</div>
+
+		<div id="conteudo">
+			
+			<div class="produto">
+				Produto 1
+
+			</div>
+
+			<div class="produto">
+				Produto 2
+
+			</div>
+
+			<div class="produto">
+				Produto 3
+
+			</div>
+
+
+		</div>
+
+		<div id="rodape">
+			Todos os <span class="azul">direitos</span> reservados.
+		</div>
+
+
+		<span id="assinatura"><!--basicamente o span funciona como uma div, ele é um elemento do tipo inline, neste caso quer dizer que o span ele agrupa os elementos linha a linha-->
+
+			Thailane
+		</span>
+
+		<span id="assinatura">
+			Lopes
+		</span>
+
+
+		
+
+	</body>
+	</html>
